@@ -1,0 +1,2 @@
+# lol-releases
+For releases
